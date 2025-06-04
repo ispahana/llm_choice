@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 expedia-personalized-sort.zip
 **.zip
+papers/
+latex/
